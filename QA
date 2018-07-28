@@ -1,0 +1,11 @@
+What are smart assets?
+
+Data that is shared through the NEM-Js API and stored on the NEM blockchain
+
+What consensus algorithm is used by NEM and how does it work?
+
+Delegated and standard proof of stake / Users coins age and their nodes gain reputation by not moving coins / they can gain an extra boost if they do some transactions. Users with 10k XEM can vote for a node.
+
+What is catapult?
+
+A re-writen codebase from java to C++
